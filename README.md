@@ -11,10 +11,10 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 🤔 I’m looking to help with building Defi and web apps
 - 💬 Ask me about web and blockchain developmentCancel changes
 - 📫 How to reach me:
-  1) Email: icarus96119@gmail.com
-  2) Telegram: @danny_jin119
-  3) Skype: live:.cid.adc01affc4f03e2a
-  4) Linkedin: https://www.linkedin.com/in/danny-jin-378ab41a8
+  1) Email: 
+  2) Telegram: 
+  3) Skype: 
+  4) Linkedin: 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
