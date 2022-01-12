@@ -1,22 +1,16 @@
 ### Hey Everyone 👋
 
-Hi. I'm a senior Blockchain and Full-Stack developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Python among others.
+Hi. I'm a senior Full-Stack developer Blockchain and  who likes to work with JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), Python among others.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
-
-Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
 - 🌱 I've already built the large number of Defi Applications
-- 🤔 I’m looking to help with building Defi and web apps
+- 🤔 I’m looking to help with building web apps and Defi 
 - 💬 Ask me about web and blockchain developmentCancel changes
 - 📫 How to reach me:
-  1) Email: 
-  2) Telegram: 
-  3) Skype: 
-  4) Linkedin: 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+  Email: judekinsley911@gmail.com 
+  Skype: live:.cid.c6085b5fb49dbed
 
 
 ### Languages and Tools:
