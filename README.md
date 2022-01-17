@@ -9,7 +9,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 - 🤔 I’m looking to help with building web apps and Defi 
 - 💬 Ask me about web and blockchain developmentCancel changes
 - 📫 How to reach me:
-  Email: judekinsley911@gmail.com 
+  Email: judekinsley911@gmail.com /
   Skype: live:.cid.c6085b5fb49dbed
 
 
