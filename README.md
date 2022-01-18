@@ -1,14 +1,17 @@
-###### 👋 Welcome to my WORLD! 👋 ######
+### :clap: Welcome to my World :clap: ######
 
 Hi. I'm a senior Full-Stack developer Blockchain and  who likes to work with JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), Python among others.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-- :muscle: As a professional web developer, have over 6 years of experience in the web field.
-- 🤔 I’m looking to help with building web apps and Defi 
-- 💬 Ask me about web and blockchain developmentCancel changes
-- 📫 How to reach me:
+:small_blue_diamond: :muscle: As a professional web developer, have over 6 years of experience in the web field.
+
+:small_blue_diamond: 🤔 I’m looking to help with building web apps and Defi 
+
+:small_blue_diamond: 💬 Ask me about web and blockchain developmentCancel changes
+
+:small_blue_diamond: 📫 How to reach me:
 
   :e-mail:Email: judekinsley911@gmail.com 
   
@@ -29,14 +32,14 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 #### Web & Mobile Development
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=skyblue&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=skyblue&color=skyblue)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=lightgreen&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=red&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=skyblue&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=red&color=red)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=skyblue&color=skyblue)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=skyblue&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=blue&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=blue&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=blue&color=blue)
 
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
