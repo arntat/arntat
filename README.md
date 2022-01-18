@@ -5,11 +5,13 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-- 🌱 I've already built the large number of Defi Applications
+- 🌱 As a professional web developer, have over 6 years of experience in the web field.
 - 🤔 I’m looking to help with building web apps and Defi 
 - 💬 Ask me about web and blockchain developmentCancel changes
 - 📫 How to reach me:
-  Email: judekinsley911@gmail.com /
+
+  Email: judekinsley911@gmail.com 
+  
   Skype: live:.cid.c6085b5fb49dbed
 
 
