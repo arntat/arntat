@@ -56,6 +56,6 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdf&label=Profile%20views&color=0e75b6&style=flat" alt="sdf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdf" alt="sdf" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satoterin" alt="sdf" /></a> </p>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
