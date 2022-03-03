@@ -54,5 +54,8 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdf&label=Profile%20views&color=0e75b6&style=flat" alt="sdf" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdf" alt="sdf" /></a> </p>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
