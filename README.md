@@ -11,22 +11,12 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 :small_blue_diamond: 💬 Ask me about web and blockchain developmentCancel changes
 
-:small_blue_diamond: 📫 How to reach me:
-
-<p align="left">
-<a href="https://linkedin.com/in/faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faustaleonardo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="faustaleonardo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/faustaleonardo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faustaleonardo11" height="30" width="40" /></a>
-<a href="https://twitter.com/faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faustaleonardo" height="30" width="40" /></a>
-<a href="https://medium.com/@faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faustaleonardo" height="30" width="40" /></a>
-<a href="https://hashnode.com/@faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@faustaleonardo" height="30" width="40" /></a>
-<a href="https://dev.to/faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="faustaleonardo" height="30" width="40" /></a>
-</p>
-
+:small_blue_diamond: 📫 How to reach me: judekinsley911@gmail.com
 
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
