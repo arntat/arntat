@@ -13,9 +13,15 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 :small_blue_diamond: 📫 How to reach me:
 
-  Email: judekinsley911@gmail.com 
-  
-  Skype: live:.cid.c6085b5fb49dbed
+<p align="left">
+<a href="https://linkedin.com/in/faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faustaleonardo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faustaleonardo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/faustaleonardo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faustaleonardo11" height="30" width="40" /></a>
+<a href="https://twitter.com/faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faustaleonardo" height="30" width="40" /></a>
+<a href="https://medium.com/@faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faustaleonardo" height="30" width="40" /></a>
+<a href="https://hashnode.com/@faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@faustaleonardo" height="30" width="40" /></a>
+<a href="https://dev.to/faustaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="faustaleonardo" height="30" width="40" /></a>
+</p>
 
 
 ### Languages and Tools:
