@@ -1,4 +1,4 @@
-### :clap: Welcome to my World :clap: ######
+### :clap: Welcome to Gotham :clap: ######
 
 Hi. I'm a senior Full-Stack & Blockchain developer who likes to work with JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), Python among others.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
@@ -9,7 +9,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 :small_blue_diamond: 🤔 I’m looking to help with building web apps and Defi 
 
-:small_blue_diamond: 💬 Ask me about web and blockchain developmentCancel changes
+:small_blue_diamond: 💬 Ask me about web and blockchain development
 
 :small_blue_diamond: 📫 How to reach me: judekinsley911@gmail.com
 
