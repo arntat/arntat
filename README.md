@@ -1,4 +1,4 @@
-### :clap: Welcome to Gotham :clap: ######
+Welcome to Gotham
 
 Hi. I'm a senior Full-Stack & Blockchain developer who likes to work with JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), Python among others.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
