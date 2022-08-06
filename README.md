@@ -1,7 +1,11 @@
 # “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
-Vetted principal Full-Stack & Blockchain engineer with 7+ years of hands-on experience.
-who likes to work with JavaScript/Typescript (React, Angular, Vue.js, TensorFlow.js, Node, Nest), Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), Python among others.
+Vetted principal Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
+
+Proficient in both front-end side and back-end side and even have rich experience in DevOps.
+
+Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency
+applications.
 
 <img align="right" alt="GIF" src="https://github.com/kinsley911/marketplace/blob/main/src/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
