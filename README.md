@@ -29,27 +29,27 @@ applications.
         <strong>JavaScript</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="15%" align="center">
+      <td width="14%" align="center">
         <strong>Python</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="15%" align="center">
+      <td width="14%" align="center">
         <strong>NodeJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
-      <td width="16%" align="center">
+      <td width="14%" align="center">
         <strong>ReactJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="15%" align="center">
+      <td width="14%" align="center">
         <strong>Git</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="15%" align="center">
+      <td width="14%" align="center">
         <strong>Go</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
-      <td width="15%" align="center">
+      <td width="14%" align="center">
         <strong>Go</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
