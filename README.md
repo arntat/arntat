@@ -25,17 +25,17 @@ applications.
 <table>
   <tbody>
     <tr valign="top">
-      <td width="16%" align="center">
-        <strong>NPM</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/npm.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>PHP</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-      <td width="16%" align="center">
+       <td width="16%" align="center">
         <strong>JavaScript</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Python</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>NPM</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/npmjs.svg">
       </td>
       <td width="16%" align="center">
         <strong>Vue</strong><br><br><br>
@@ -47,21 +47,21 @@ applications.
       </td>
       <td width="16%" align="center">
         <strong>Go</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="16%" align="center">
-        <strong>Python</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+        <strong>Typescript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>PHP</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="16%" align="center">
         <strong>C++</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Typescript</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="16%" align="center">
         <strong>ReactJS</strong><br><br><br>
@@ -95,11 +95,11 @@ applications.
       </td>
       <td width="16%" align="center">
         <strong>AWS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
       </td>
       <td width="16%" align="center">
         <strong>Ethereum</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
       </td>
     </tr>
   </tbody>
