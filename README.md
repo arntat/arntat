@@ -2,13 +2,12 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
-* 💪   Vetted principal Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
+* 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, GPA 3.7/4.0, TOP 5%.
 * 🌱   Currently learning Linux, Rust, Math & Philosophy.
 * 💻   With 10 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
-applications.
 
 ## Tech Stack
 
