@@ -27,11 +27,11 @@ applications.
     <tr valign="top">
       <td width="16%" align="center">
         <strong>HTML5</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/gcp.svg">
       </td>
       <td width="16%" align="center">
         <strong>CSS3</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="16%" align="center">
         <strong>JavaScript</strong><br><br><br>
@@ -46,7 +46,7 @@ applications.
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Hyperledger</strong><br><br><br>
+        <strong>Go</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
       </td>
     </tr>
@@ -80,6 +80,3 @@ applications.
 </table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satoterin&theme=onedark)](https://git.io/streak-stats)
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
