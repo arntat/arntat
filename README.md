@@ -1,5 +1,3 @@
-# “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
-
 <p align="center">
   <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
 </p>
@@ -81,39 +79,6 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
         <td width="16%" align="center">
-        <strong>EthersJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>GCP</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Rust</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="16%" align="center">
-        <strong>Ethereum</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum-color.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Solidity</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Web3JS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/web3js.svg">
-      </td>
-      <td width="16%" align="center">
         <strong>EthersJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
       </td>
