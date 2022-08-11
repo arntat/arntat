@@ -1,5 +1,7 @@
 # “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 Vetted principal Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
 
 Proficient in both front-end side and back-end side and even have rich experience in DevOps.
@@ -7,7 +9,16 @@ Proficient in both front-end side and back-end side and even have rich experienc
 Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency
 applications.
 
-<img align="right" alt="GIF" src="https://github.com/kinsley911/marketplace/blob/main/src/busyprogrammer.gif?raw=true" width="50%" height="auto" />
+I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+
+* 🧐   Interested in full stack. Recent focus on Infra.
+* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
+* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
+* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
+* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
+* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
+* ⛵   Encouraging people for open source collaborations.
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
 
 ### Skills:
 
