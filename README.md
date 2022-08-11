@@ -25,27 +25,27 @@ applications.
 <table>
   <tbody>
     <tr valign="top">
-       <td width="16%" align="center">
+       <td width="15%" align="center">
         <strong>JavaScript</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="16%" align="center">
+      <td width="15%" align="center">
         <strong>Python</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="16%" align="center">
+      <td width="15%" align="center">
         <strong>NodeJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Vue</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <strong>ReactJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="16%" align="center">
+      <td width="15%" align="center">
         <strong>Git</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="16%" align="center">
+      <td width="15%" align="center">
         <strong>Go</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
@@ -63,10 +63,11 @@ applications.
         <strong>C++</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
-      <td width="16%" align="center">
-        <strong>ReactJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
+      <td width="15%" align="center">
+        <strong>Vue</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
+      
       <td width="16%" align="center">
         <strong>AWS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
