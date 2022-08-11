@@ -49,6 +49,10 @@ applications.
         <strong>Go</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
+      <td width="15%" align="center">
+        <strong>Go</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="16%" align="center">
@@ -72,11 +76,15 @@ applications.
         <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Ethereum</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum-color.svg">
+        <strong>NextJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
     </tr>
     <tr valign="top">
+      <td width="16%" align="center">
+        <strong>Ethereum</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum-color.svg">
+      </td>
       <td width="16%" align="center">
         <strong>Solidity</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
@@ -88,10 +96,6 @@ applications.
       <td width="16%" align="center">
         <strong>EthersJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>NextJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
       <td width="16%" align="center">
         <strong>GCP</strong><br><br><br>
