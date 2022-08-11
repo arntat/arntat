@@ -27,11 +27,11 @@ applications.
     <tr valign="top">
       <td width="16%" align="center">
         <strong>HTML5</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/npm.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
       <td width="16%" align="center">
         <strong>CSS3</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/php.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/solana.svg">
       </td>
       <td width="16%" align="center">
         <strong>JavaScript</strong><br><br><br>
