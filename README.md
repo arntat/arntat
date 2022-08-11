@@ -42,6 +42,10 @@
         <strong>Typescript</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
+      <td width="16%" align="center">
+        <strong>Typescript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="16%" align="center">
