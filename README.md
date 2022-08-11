@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
-</p>
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
 * 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
@@ -10,6 +6,10 @@
 * 💻   With 10 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
+
+<p align="center">
+  <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
+</p>
 
 ## Tech Stack
 
