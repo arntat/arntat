@@ -1,23 +1,13 @@
 # “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
-Vetted principal Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
-
-Proficient in both front-end side and back-end side and even have rich experience in DevOps🐳.
-
-
-
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
-
-* 🧐   Vetted principal Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
+* 💪   Vetted principal Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, GPA 3.7/4.0, TOP 5%.
-* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
+* 🌱   Currently learning Linux, Rust, Math & Philosophy.
 * 💻   With 10 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency
+* 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
 applications.
 
 ## Tech Stack
@@ -98,7 +88,7 @@ applications.
         <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Hardhat</strong><br><br><br>
+        <strong>Rust</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
     </tr>
