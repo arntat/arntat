@@ -104,5 +104,4 @@
   </tbody>
 </table>
 
-##Rating
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
