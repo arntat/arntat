@@ -1,5 +1,4 @@
-# “Any fool can write code that a computer can understand. 
-#Good programmers write code that humans can understand.”
+# “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
@@ -38,6 +37,10 @@
       <td width="16%" align="center">
         <strong>Go</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Typescript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
     </tr>
     <tr valign="top">
