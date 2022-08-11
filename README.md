@@ -35,7 +35,7 @@ applications.
       </td>
       <td width="16%" align="center">
         <strong>NPM</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="16%" align="center">
         <strong>Vue</strong><br><br><br>
