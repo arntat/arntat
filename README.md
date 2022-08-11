@@ -1,5 +1,7 @@
 # “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
-
+<p align="center">
+  <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
+</p>
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
 * 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
@@ -46,6 +48,10 @@
         <strong>Typescript</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
+      <td width="16%" align="center">
+        <strong>Typescript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="16%" align="center">
@@ -76,9 +82,7 @@
   </tbody>
 </table>
 
-<p align="center">
-  <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
-</p>
+
 
 <table>
   <tbody>
