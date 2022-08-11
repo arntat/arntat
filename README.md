@@ -47,7 +47,7 @@ applications.
       </td>
       <td width="16%" align="center">
         <strong>Hyperledger</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ibm.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/golang.svg">
       </td>
     </tr>
     <tr valign="top">
