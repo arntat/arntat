@@ -7,10 +7,6 @@
 * ⛵   Encouraging people for open source collaborations.
 * 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
 
-<p align="center">
-  <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
-</p>
-
 ## Tech Stack
 
 <table>
