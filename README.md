@@ -34,7 +34,7 @@ applications.
         <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="16%" align="center">
-        <strong>NPM</strong><br><br><br>
+        <strong>NodeJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="16%" align="center">
@@ -78,28 +78,28 @@ applications.
     </tr>
     <tr valign="top">
       <td width="16%" align="center">
-        <strong>Django</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/django.svg">
+        <strong>Solidity</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Laravel</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/laravel.svg">
+        <strong>Web3JS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/web3js.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Express</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/express.svg">
+        <strong>EthersJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
       </td>
       <td width="16%" align="center">
-        <strong>ReactJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
+        <strong>NextJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
       <td width="16%" align="center">
-        <strong>AWS</strong><br><br><br>
+        <strong>GCP</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Ethereum</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
+        <strong>Hardhat</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/hardhat.svg">
       </td>
     </tr>
   </tbody>
