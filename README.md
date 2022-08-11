@@ -1,4 +1,5 @@
-# “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+# “Any fool can write code that a computer can understand. 
+#Good programmers write code that humans can understand.”
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
@@ -65,6 +66,15 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
     </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="http://www.userlogos.org/files/logos/Deva/blockchain1.png" />
+</p>
+
+<table>
+  <tbody>
     <tr valign="top">
       <td width="16%" align="center">
         <strong>Ethereum</strong><br><br><br>
@@ -94,4 +104,5 @@
   </tbody>
 </table>
 
+##Rating
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
