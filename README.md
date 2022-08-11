@@ -20,6 +20,65 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 * 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency
 applications.
 
+## Tech Stack
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="16%" align="center">
+        <strong>HTML5</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>CSS3</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>JavaScript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Vue</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Git</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Hyperledger</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ibm.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="16%" align="center">
+        <strong>Python</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>C++</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Typescript</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>ReactJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>AWS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Ethereum</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satoterin&theme=onedark)](https://git.io/streak-stats)
 
