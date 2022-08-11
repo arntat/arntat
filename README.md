@@ -26,12 +26,12 @@ applications.
   <tbody>
     <tr valign="top">
       <td width="16%" align="center">
-        <strong>HTML5</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
+        <strong>NPM</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/npm.svg">
       </td>
       <td width="16%" align="center">
-        <strong>CSS3</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/solana.svg">
+        <strong>PHP</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="16%" align="center">
         <strong>JavaScript</strong><br><br><br>
@@ -62,6 +62,32 @@ applications.
       <td width="16%" align="center">
         <strong>Typescript</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>ReactJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>AWS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Ethereum</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="16%" align="center">
+        <strong>Django</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/django.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Laravel</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/laravel.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Express</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
       <td width="16%" align="center">
         <strong>ReactJS</strong><br><br><br>
