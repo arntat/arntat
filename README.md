@@ -35,7 +35,7 @@ applications.
       </td>
       <td width="16%" align="center">
         <strong>NPM</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/npmjs.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="16%" align="center">
         <strong>Vue</strong><br><br><br>
@@ -73,7 +73,7 @@ applications.
       </td>
       <td width="16%" align="center">
         <strong>Ethereum</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum-color.svg">
       </td>
     </tr>
     <tr valign="top">
