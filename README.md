@@ -92,7 +92,3 @@
 </table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
-
-![svg](https://raw.githubusercontent.com/satoterin/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
-
-
