@@ -19,11 +19,11 @@
     <tr valign="top">
        <td width="16%" align="center">
         <strong>JavaScript</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="48px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp">
       </td>
       <td width="16%" align="center">
         <strong>Python</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="48px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
       </td>
       <td width="16%" align="center">
         <strong>NodeJS</strong><br><br><br>
