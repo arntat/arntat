@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
-### <img src="https://little.kylerconway.com/images/golang-what.gif" width="70"> A little more about me...  
+### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> A little more about me...  
 * 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, GPA 3.7/4.0, TOP 5%.
 * 🌱   Currently learning Linux, Rust, Math & Philosophy.
@@ -68,20 +68,20 @@
         <img height="48px" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp">
       </td>  
       <td width="16%" align="center">
+        <strong>NextJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+      </td>
+      <td width="16%" align="center">
         <strong>AWS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="16%" align="center">
-        <strong>NextJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-        <td width="16%" align="center">
-        <strong>EthersJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
-      </td>
-      <td width="16%" align="center">
         <strong>GCP</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>EthersJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
       </td>
       <td width="16%" align="center">
         <strong>Rust</strong><br><br><br>
