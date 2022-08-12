@@ -31,7 +31,7 @@
       </td>
       <td width="16%" align="center">
         <strong>ReactJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="48px" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp">
       </td>
       <td width="16%" align="center">
         <strong>Git</strong><br><br><br>
@@ -39,7 +39,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Go</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
+        <img height="48px" src="https://little.kylerconway.com/images/golang-what.gif">
       </td>
       <td width="16%" align="center">
         <strong>Ethereum</strong><br><br><br>
