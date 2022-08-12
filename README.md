@@ -91,7 +91,6 @@
   </tbody>
 </table>
 
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
+
 
