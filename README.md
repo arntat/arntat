@@ -1,10 +1,6 @@
-<img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-
-<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://little.kylerconway.com/images/golang-what.gif" width="70"> A little more about me...  
 * 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, GPA 3.7/4.0, TOP 5%.
 * 🌱   Currently learning Linux, Rust, Math & Philosophy.
@@ -39,7 +35,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Go</strong><br><br><br>
-        <img height="48px" src="https://little.kylerconway.com/images/golang-what.gif">
+        <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="16%" align="center">
         <strong>Ethereum</strong><br><br><br>
