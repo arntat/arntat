@@ -69,7 +69,7 @@
       </td>
       <td width="15%" align="center">
         <strong>Vue</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <img height="48px" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp">
       </td>  
       <td width="16%" align="center">
         <strong>AWS</strong><br><br><br>
