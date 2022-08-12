@@ -1,4 +1,4 @@
-##I'm Satoterin <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+###I'm Satoterin <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
