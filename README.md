@@ -4,7 +4,7 @@
 * 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
 * <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, GPA 3.7/4.0, TOP 5%.
 * 🌱   Currently learning Linux, Rust, Math & Philosophy.
-* 💻   With 10 years' computer science and technology education and 7 years' development working experience.
+* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   With 10 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
 
@@ -92,3 +92,7 @@
 </table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
