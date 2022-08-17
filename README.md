@@ -93,7 +93,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Solana</strong><br><br><br>
-        <img height="40px" src="https://cryptologos.cc/logos/solana-sol-logo.svg">
+        <img height="36px" src="https://cryptologos.cc/logos/solana-sol-logo.svg">
       </td>
     </tr>
   </tbody>
