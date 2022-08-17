@@ -61,7 +61,7 @@
       </td>
       <td width="16%" align="center">
         <strong>C++</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+        <img height="48px" src="https://cryptologos.cc/logos/cosmos-atom-logo.svg">
       </td>
       <td width="16%" align="center">
         <strong>NextJS</strong><br><br><br>
