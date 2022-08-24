@@ -22,8 +22,8 @@
         <img height="48px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
       </td>
       <td width="16%" align="center">
-        <strong>NodeJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <strong>Go</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
       <td width="16%" align="center">
         <strong>ReactJS</strong><br><br><br>
@@ -34,8 +34,8 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Go</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
+        <strong>NodeJS</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="16%" align="center">
         <strong>Ethereum</strong><br><br><br>
