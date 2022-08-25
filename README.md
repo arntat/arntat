@@ -47,7 +47,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Web3JS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/web3js.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/k8.svg">
       </td>
       <td width="16%" align="center">
         <strong>CosmosSDK</strong><br><br><br>
@@ -85,7 +85,7 @@
       </td>
       <td width="16%" align="center">
         <strong>EthersJS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethers.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/grpc.svg">
       </td>
       <td width="16%" align="center">
         <strong>Solana</strong><br><br><br>
