@@ -47,7 +47,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Web3JS</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/k8.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
       </td>
       <td width="16%" align="center">
         <strong>CosmosSDK</strong><br><br><br>
