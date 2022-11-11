@@ -84,11 +84,11 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
       </td>
       <td width="16%" align="center">
-        <strong>gRPC</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/grpc.svg">
+        <strong>GraphQL</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Solana</strong><br><br><br>
+        <strong>Rust</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
       <td width="16%" align="center">
