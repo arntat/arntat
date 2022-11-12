@@ -46,8 +46,8 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Kubernetes</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+        <strong>gRPC</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/grpc.svg">
       </td>
       <td width="16%" align="center">
         <strong>CosmosSDK</strong><br><br><br>
