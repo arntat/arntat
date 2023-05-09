@@ -30,10 +30,6 @@
         <img height="48px" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp">
       </td>
       <td width="16%" align="center">
-        <strong>Git</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="16%" align="center">
         <strong>NodeJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
@@ -91,12 +87,8 @@
         <strong>Rust</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
-      <td width="16%" align="center">
-        <strong>Solana</strong><br><br><br>
-        <img height="34px" src="https://cryptologos.cc/logos/solana-sol-logo.svg">
-      </td>
     </tr>
   </tbody>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arntat&theme=onedark)](https://github.com/arntat/arntat)
