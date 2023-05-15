@@ -83,6 +83,10 @@
         <strong>GraphQL</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
+      <td width="16%" align="center">
+        <strong>GraphQL</strong><br><br><br>
+        <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg">
+      </td>
     </tr>
   </tbody>
 </table>
