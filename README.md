@@ -2,7 +2,7 @@
 
 ### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> A little more about me...  
 * 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, GPA 3.7/4.0, TOP 5%.
+* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, TOP 5%.
 * 🌱   Currently learning Linux, Rust, Math & Philosophy.
 * 💻   With 10 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
@@ -77,7 +77,7 @@
       </td>
       <td width="16%" align="center">
         <strong>GCP</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/wordpress.svg">
       </td>
       <td width="16%" align="center">
         <strong>GraphQL</strong><br><br><br>
