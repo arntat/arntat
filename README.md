@@ -77,7 +77,7 @@
       </td>
       <td width="16%" align="center">
         <strong>GCP</strong><br><br><br>
-        <img height="48px" src="[https://cdn.svgporn.com/logos/google-cloud.svg](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg)">
+        <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
       </td>
       <td width="16%" align="center">
         <strong>GraphQL</strong><br><br><br>
