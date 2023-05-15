@@ -85,7 +85,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Wordpress</strong><br><br><br>
-        <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg">
+        <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png">
       </td>
     </tr>
   </tbody>
