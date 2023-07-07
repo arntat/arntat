@@ -3,7 +3,7 @@
 ### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> A little more about me...  
 * 💪   Vetted Senior Full-Stack & Blockchain engineer with 7+ years of hands-on experience in software development field.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, TOP 5%.
-* 🌱   Currently learning Move, Rust & Philosophy.
+* 🌱   Currently learning AI & Philosophy.
 * 💻   With 10 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
@@ -23,7 +23,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Go</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/golang.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
       </td>
       <td width="16%" align="center">
         <strong>ReactJS</strong><br><br><br>
