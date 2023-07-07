@@ -23,7 +23,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Go</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/gopher.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/golang.svg">
       </td>
       <td width="16%" align="center">
         <strong>ReactJS</strong><br><br><br>
@@ -60,8 +60,8 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="16%" align="center">
-        <strong>C++</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+        <strong>Rust</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
       <td width="16%" align="center">
         <strong>NextJS</strong><br><br><br>
