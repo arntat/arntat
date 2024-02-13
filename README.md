@@ -76,8 +76,8 @@
         <img height="48px" src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-colored.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Solana</strong><br><br><br>
-        <img height="48px" src="https://wikipedia.org/wiki/Datei:ChatGPT_logo.svg">
+        <strong>AI</strong><br><br><br>
+        <img height="48px" src="https://worldvectorlogo.com/ja/download/ai.svg">
       </td>
     </tr>
   </tbody>
