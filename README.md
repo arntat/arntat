@@ -71,6 +71,14 @@
         <strong>GraphQL</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
+      <td width="16%" align="center">
+        <strong>EVM</strong><br><br><br>
+        <img height="48px" src="https://cryptologos.cc/logos/ethereum-color.svg">
+      </td>
+      <td width="16%" align="center">
+        <strong>Solana</strong><br><br><br>
+        <img height="48px" src="https://cryptologos.cc/logos/solana.svg">
+      </td>
     </tr>
   </tbody>
 </table>
