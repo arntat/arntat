@@ -73,11 +73,11 @@
       </td>
       <td width="16%" align="center">
         <strong>EVM</strong><br><br><br>
-        <img height="48px" src="https://versions/ethereum-eth-logo-animated.gif">
+        <img height="48px" src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-animated.gif">
       </td>
       <td width="16%" align="center">
         <strong>Solana</strong><br><br><br>
-        <img height="48px" src="https://cryptologos.cc/logos/versions/solana-sol-logo-horizontal.svg">
+        <img height="48px" src="https://cryptologos.cc/logos//solana-sol-logo.svg">
       </td>
     </tr>
   </tbody>
