@@ -33,10 +33,10 @@
         <strong>NodeJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
-      <td width="16%" align="center">
-        <strong>Ethereum</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ai.svg">
-      </td>
+      <td width="15%" align="center">
+        <strong>Vue</strong><br><br><br>
+        <img height="48px" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp">
+      </td>  
       <td width="16%" align="center">
         <strong>Solidity</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
@@ -62,11 +62,7 @@
       <td width="16%" align="center">
         <strong>NextJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-      <td width="15%" align="center">
-        <strong>Vue</strong><br><br><br>
-        <img height="48px" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp">
-      </td>  
+      </td> 
       <td width="16%" align="center">
         <strong>AWS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
@@ -74,10 +70,6 @@
       <td width="16%" align="center">
         <strong>GraphQL</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Wordpress</strong><br><br><br>
-        <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png">
       </td>
     </tr>
   </tbody>
