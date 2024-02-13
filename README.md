@@ -2,7 +2,7 @@
 
 ### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> A little more about me...  
 * 💪   Vetted Software engineer with 7+ years of hands-on experience in particular field.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science.
+* 🎓   B.S. in Computer Science.
 * 🌱   Currently learning AI & Psychology.
 * 💻   With 10 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
@@ -35,15 +35,11 @@
       </td>
       <td width="16%" align="center">
         <strong>Ethereum</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/ethereum-color.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/ai.svg">
       </td>
       <td width="16%" align="center">
         <strong>Solidity</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>gRPC</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/grpc.svg">
       </td>
       <td width="16%" align="center">
         <strong>CosmosSDK</strong><br><br><br>
@@ -56,8 +52,8 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="16%" align="center">
-        <strong>PHP</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/php.svg">
+        <strong>Laravel</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
       <td width="16%" align="center">
         <strong>Rust</strong><br><br><br>
@@ -76,10 +72,6 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="16%" align="center">
-        <strong>ChatGPT</strong><br><br><br>
-        <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
-      </td>
-      <td width="16%" align="center">
         <strong>GraphQL</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
@@ -91,4 +83,3 @@
   </tbody>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arntat&theme=onedark)](https://github.com/arntat/arntat)
