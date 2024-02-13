@@ -33,13 +33,13 @@
         <strong>NodeJS</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
-      <td width="15%" align="center">
+      <td width="16%" align="center">
         <strong>Vue</strong><br><br><br>
         <img height="48px" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp">
       </td>  
       <td width="16%" align="center">
-        <strong>Solidity</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/solidity.svg">
+        <strong>Solana</strong><br><br><br>
+        <img height="48px" src="https://cryptologos.cc/logos//solana-sol-logo.svg">
       </td>
       <td width="16%" align="center">
         <strong>CosmosSDK</strong><br><br><br>
@@ -77,7 +77,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Solana</strong><br><br><br>
-        <img height="48px" src="https://cryptologos.cc/logos//solana-sol-logo.svg">
+        <img height="48px" src="https://wikipedia.org/wiki/Datei:ChatGPT_logo.svg">
       </td>
     </tr>
   </tbody>
