@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
-### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> A little more about me...  
+### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> It’s not a bug; it’s an undocumented feature. 
 
 ## Tech Stack
 
