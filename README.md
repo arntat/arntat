@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
-### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> It’s not a bug; it’s an undocumented feature. 
+### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler
 
 ## Tech Stack
 
