@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
-### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler
+### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> Everybody should learn to program a computer because it teaches you how to think. – Steve Jobs
 
 ## Tech Stack
 
