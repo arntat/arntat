@@ -1,12 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
 ### <img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> A little more about me...  
-* 💪   Vetted Software engineer with 7+ years of hands-on experience in particular field.
-* 🎓   B.S. in Computer Science.
-* 🌱   Currently learning AI & Psychology.
-* 💻   With 10 years' computer science and technology education and 7 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
 
 ## Tech Stack
 
