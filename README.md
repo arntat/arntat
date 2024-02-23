@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)  
 
-###<img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> Everybody should learn to program a computer because it teaches you how to think. – Steve Jobs
+<img src="https://little.kylerconway.com/images/golang-what.gif" width="80"> ##Everybody should learn to program a computer because it teaches you how to think. – Steve Jobs
 
 ## Tech Stack
 
