@@ -29,7 +29,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Go</strong><br><br><br>
-        <img height="42px" src="https://cdn.svgporn.com/logos/go.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
       </td>  
       <td width="16%" align="center">
         <strong>Solana</strong><br><br><br>
