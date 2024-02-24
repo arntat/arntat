@@ -29,7 +29,7 @@
       </td>
       <td width="16%" align="center">
         <strong>Go</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
+        <img height="42px" src="https://cdn.svgporn.com/logos/go.svg">
       </td>  
       <td width="16%" align="center">
         <strong>Solana</strong><br><br><br>
@@ -66,7 +66,7 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Ethereum</strong><br><br><br>
+        <strong>EVM</strong><br><br><br>
         <img height="48px" src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-colored.svg">
       </td>
       <td width="16%" align="center">
