@@ -16,8 +16,8 @@
         <img height="48px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
       </td>
       <td width="16%" align="center">
-        <strong>Go</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
+        <strong>Vue</strong><br><br><br>
+        <img height="48px" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp">
       </td>
       <td width="16%" align="center">
         <strong>ReactJS</strong><br><br><br>
@@ -28,8 +28,8 @@
         <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="16%" align="center">
-        <strong>Vue</strong><br><br><br>
-        <img height="48px" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp">
+        <strong>Go</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/go.svg">
       </td>  
       <td width="16%" align="center">
         <strong>Solana</strong><br><br><br>
